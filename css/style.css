@@ -1,5 +1,21 @@
 .kakou{
 	width:  60%;
 	height: 90%;
-	margin-left: 20%
+	margin-left: 20%;
 }
+
+.hi{
+	margin-top: 20%;
+	color: white;
+	background-color: #F33A6A;
+}
+
+.hi2{
+	color: white;
+	background-color: #F33A6A;
+}
+
+body.bg-color{
+	background-color: pink;
+}
+
